@@ -1,0 +1,1 @@
+This folder contains the source code of the image being used in the developement of the Operating System.
