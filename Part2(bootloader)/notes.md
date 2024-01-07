@@ -1,4 +1,6 @@
-In part one we use the assembly code to create the bootloader.
+Status: Completed
+
+Description: In part one we use the assembly code to create the bootloader.
 
 Accomplishments:
 1. Boots the Operating System
