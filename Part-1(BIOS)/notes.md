@@ -1,4 +1,6 @@
-In part one we use the assembly code to create the bios.
+Status: Completed
+
+Description: In part one we use the assembly code to create the bios.
 
 Accomplishments:
 1. Boots the Operating System
